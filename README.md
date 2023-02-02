@@ -10,9 +10,9 @@ Here is the summary. Read the above link for more details.
 
 ### Branch Name Format
 
-**minor**-description (for new feature) <br/>
-**patch**-description (for fix) <br/>
-**major**-description (for breaking change fix or feature) <br/>
+**minor**/description (for new feature) <br/>
+**patch**/description (for fix) <br/>
+**major**/description (for breaking change fix or feature) <br/>
 
 ### Commit Format
 
