@@ -13,6 +13,7 @@ Here is the summary. Read the above link for more details.
 **minor**/description (for new feature) <br/>
 **patch**/description (for fix) <br/>
 **major**/description (for breaking change fix or feature) <br/>
+**feature**/description (for breaking change feature) <br/>
 
 ### Commit Format
 
