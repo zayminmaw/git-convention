@@ -20,7 +20,7 @@ Here is the summary. Read the above link for more details.
 In commit messages format we will be using 
 
 ```
-<type>[optional scope]: <description>
+<type>(optional scope): <description>
 
 [optional body]
 
